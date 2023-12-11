@@ -1,0 +1,17 @@
+D:\ABP-DOTNET-REACT\Kanini.Trip\aspnet-core\KaniniTrip\src\KaniniTrip.Package.Microservice\KaniniTrip.Package.Infrastructure\bin\Debug\net6.0\KaniniTrip.Package.Infrastructure.deps.json
+D:\ABP-DOTNET-REACT\Kanini.Trip\aspnet-core\KaniniTrip\src\KaniniTrip.Package.Microservice\KaniniTrip.Package.Infrastructure\bin\Debug\net6.0\KaniniTrip.Package.Infrastructure.runtimeconfig.json
+D:\ABP-DOTNET-REACT\Kanini.Trip\aspnet-core\KaniniTrip\src\KaniniTrip.Package.Microservice\KaniniTrip.Package.Infrastructure\bin\Debug\net6.0\KaniniTrip.Package.Infrastructure.dll
+D:\ABP-DOTNET-REACT\Kanini.Trip\aspnet-core\KaniniTrip\src\KaniniTrip.Package.Microservice\KaniniTrip.Package.Infrastructure\bin\Debug\net6.0\KaniniTrip.Package.Infrastructure.pdb
+D:\ABP-DOTNET-REACT\Kanini.Trip\aspnet-core\KaniniTrip\src\KaniniTrip.Package.Microservice\KaniniTrip.Package.Infrastructure\bin\Debug\net6.0\KaniniTrip.Package.Domain.dll
+D:\ABP-DOTNET-REACT\Kanini.Trip\aspnet-core\KaniniTrip\src\KaniniTrip.Package.Microservice\KaniniTrip.Package.Infrastructure\bin\Debug\net6.0\KaniniTrip.Package.Domain.pdb
+D:\ABP-DOTNET-REACT\Kanini.Trip\aspnet-core\KaniniTrip\src\KaniniTrip.Package.Microservice\KaniniTrip.Package.Infrastructure\obj\Debug\net6.0\KaniniTrip.Package.Infrastructure.csproj.AssemblyReference.cache
+D:\ABP-DOTNET-REACT\Kanini.Trip\aspnet-core\KaniniTrip\src\KaniniTrip.Package.Microservice\KaniniTrip.Package.Infrastructure\obj\Debug\net6.0\KaniniTrip.Package.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\ABP-DOTNET-REACT\Kanini.Trip\aspnet-core\KaniniTrip\src\KaniniTrip.Package.Microservice\KaniniTrip.Package.Infrastructure\obj\Debug\net6.0\KaniniTrip.Package.Infrastructure.AssemblyInfoInputs.cache
+D:\ABP-DOTNET-REACT\Kanini.Trip\aspnet-core\KaniniTrip\src\KaniniTrip.Package.Microservice\KaniniTrip.Package.Infrastructure\obj\Debug\net6.0\KaniniTrip.Package.Infrastructure.AssemblyInfo.cs
+D:\ABP-DOTNET-REACT\Kanini.Trip\aspnet-core\KaniniTrip\src\KaniniTrip.Package.Microservice\KaniniTrip.Package.Infrastructure\obj\Debug\net6.0\KaniniTrip.Package.Infrastructure.csproj.CoreCompileInputs.cache
+D:\ABP-DOTNET-REACT\Kanini.Trip\aspnet-core\KaniniTrip\src\KaniniTrip.Package.Microservice\KaniniTrip.Package.Infrastructure\obj\Debug\net6.0\KaniniTrip.Package.Infrastructure.csproj.CopyComplete
+D:\ABP-DOTNET-REACT\Kanini.Trip\aspnet-core\KaniniTrip\src\KaniniTrip.Package.Microservice\KaniniTrip.Package.Infrastructure\obj\Debug\net6.0\KaniniTrip.Package.Infrastructure.dll
+D:\ABP-DOTNET-REACT\Kanini.Trip\aspnet-core\KaniniTrip\src\KaniniTrip.Package.Microservice\KaniniTrip.Package.Infrastructure\obj\Debug\net6.0\refint\KaniniTrip.Package.Infrastructure.dll
+D:\ABP-DOTNET-REACT\Kanini.Trip\aspnet-core\KaniniTrip\src\KaniniTrip.Package.Microservice\KaniniTrip.Package.Infrastructure\obj\Debug\net6.0\KaniniTrip.Package.Infrastructure.pdb
+D:\ABP-DOTNET-REACT\Kanini.Trip\aspnet-core\KaniniTrip\src\KaniniTrip.Package.Microservice\KaniniTrip.Package.Infrastructure\obj\Debug\net6.0\KaniniTrip.Package.Infrastructure.genruntimeconfig.cache
+D:\ABP-DOTNET-REACT\Kanini.Trip\aspnet-core\KaniniTrip\src\KaniniTrip.Package.Microservice\KaniniTrip.Package.Infrastructure\obj\Debug\net6.0\ref\KaniniTrip.Package.Infrastructure.dll

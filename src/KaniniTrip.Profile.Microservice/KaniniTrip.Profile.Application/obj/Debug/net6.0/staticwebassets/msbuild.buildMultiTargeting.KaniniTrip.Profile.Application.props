@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\KaniniTrip.Profile.Application.props" />
+</Project>
